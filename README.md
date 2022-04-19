@@ -1,23 +1,24 @@
 # Kodluyoruz Ilk Repo
----
+
 Bu repo [kodluyoruz](kodluyoruz.org) Back-End eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındıyor
-!(https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/github.png)
+![sd](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/github.png)
 
 ## Installation
 ---
-Öncelikle projeyi klonlayın 
-'''
-https://github.com/olumlukaramsar/kodluyoruzilkrepo.git
-'''
+Öncelikle projeyi klonlayın (buraya sizin reponuzun linki gelecek)
+
+```
+git clone https://github.com/olumlukaramsar/kodluyoruzilkrepo.git
+```
 ## Usage
 ---
 Projeyi cloneladıktan sonra Visiual Studio Code programında açınız
 
 Linux için:
-'''
+```
 cd kodluyoruzilkrepo
 code .
-'''
+```
 
 ## Contributing
 ---
